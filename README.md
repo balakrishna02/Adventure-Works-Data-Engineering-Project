@@ -1,7 +1,7 @@
 # Adventure-Works-Data-Engineering-Project
 
 ## Introduction
-This project provides a comprehensive end-to-end data engineering solution using Azure cloud services. It encompasses the design and implementation of data workflows from scratch, focusing on real-time data ingestion, transformation, and processing. The project leverages key Azure tools such as Azure Data Factory and Data Bricks to build scalable and efficient data pipelines. It emphasizes practical application of data architecture principles, data integration, and transformation techniques, demonstrating a complete data engineering workflow.
+This project provides a comprehensive end-to-end data engineering solution using Azure cloud services. It encompasses the design and implementation of data workflows from scratch, focusing on real-time data ingestion, transformation, and processing. The project leverages key Azure tools such as Azure Data Factory and Data Bricks to build scalable and efficient data pipelines. The project emphasizes practical implementation of data architecture, ETL processes, and scalable data solutions in Azure, providing a comprehensive overview suitable for real-world applications.
 
 
 ## Data Architechture
